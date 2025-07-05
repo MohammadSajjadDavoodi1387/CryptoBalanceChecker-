@@ -20,6 +20,7 @@ This is a simple desktop application built with Python and Tkinter that allows y
 1. Clone or download this repository to your local machine.
 2. Make sure you have Python 3.x installed.
 3. Install the required libraries by running:
+
    ```
    pip install -r requirements.txt
    ```
