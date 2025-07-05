@@ -1,0 +1,8 @@
+tk
+requests
+mnemonic
+hdwallet
+bit
+qrcode
+pillow
+ecdsa
